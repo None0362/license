@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "licenseKey": "ABC123-XYZ456-DEF789",
+      "webhookUrl": "https://discord.com/api/webhooks/123456789/abcdefg"
+    },
+    {
+      "licenseKey": "GHI987-JKL654-MNO321",
+      "webhookUrl": "https://discord.com/api/webhooks/987654321/hijklmn"
+    },
+    {
+      "licenseKey": "NEW123-KEY456-EXAMPLE",
+      "webhookUrl": "https://discord.com/api/webhooks/111111111/example"
+    }
+  ]
+}
