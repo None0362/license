@@ -10,7 +10,7 @@
     },
     {
       "licenseKey": "NEW123-KEY456-EXAMPLE",
-      "webhookUrl": "https://discord.com/api/webhooks/111111111/example"
+      "webhookUrl": "https://discord.com/api/webhooks/111111111/examples"
     }
   ]
 }
